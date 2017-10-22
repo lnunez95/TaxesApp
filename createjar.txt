@@ -1,0 +1,2 @@
+javac -d . TaxesApp.java
+jar cvfe taxesApp.jar TaxesApp *.class
